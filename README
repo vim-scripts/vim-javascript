@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4452
+
+This is the source of the newly maintained vim-javascript which was originally located at http://www.vim.org/scripts/script.php?script_id=2765
+
+The source of truth is the GitHub repo https://github.com/pangloss/vim-javascript
